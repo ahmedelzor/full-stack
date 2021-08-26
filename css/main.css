@@ -1,0 +1,82 @@
+body{
+    background-image: url(../image/باك\ جراوند.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: white;
+}
+.navbar a img{
+    width: 80px ;
+    background-color: white;
+    border-radius: 20%;
+
+}
+.ahmed{
+    margin: 0px 50px;
+    font-size: 20px;
+
+}
+.ahmed:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border-radius: 30%;
+    border: black solid 2px;
+
+}
+ #navbarNav .nav-link{
+    color: white;
+}
+#navbarNav .nav-link:hover{
+    color: black;
+}
+#ahmed{
+    background-color:rgba(0, 0, 0,0.3);
+}
+#mero{
+    background-color:rgba(0, 0, 0,1);
+}
+
+.container .row{
+    margin-top: 210px;
+    color: white;
+}
+.container .row p{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.container .row button{
+    margin: 20px 45% ;
+    width: 150px;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: white 2px solid;
+    border-radius: 30%;
+}
+form .container{
+    margin: 100px  auto 50px auto;
+    color: white;
+    width: 50%;
+    height: 300px;
+
+}
+.roro{
+    text-align: center;
+}
+
+.roro img{
+    height: 300px;
+    width: 300px;
+    border-radius: 10% !important;
+}
+.roro .row div .mero{
+    margin: auto;
+    background-color: rgba(26, 100, 26,0.5);
+
+}
+.roro .row div p{
+    border-radius: 20%;
+    background-color: rgba(19, 18, 18, 0.5);
+    color: white;
+}
