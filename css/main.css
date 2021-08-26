@@ -46,7 +46,7 @@ body{
 }
 
 .container .row button{
-    margin: 20px 45% ;
+    margin: 15px 0px;
     width: 150px;
     background-color: green;
     color: white;
